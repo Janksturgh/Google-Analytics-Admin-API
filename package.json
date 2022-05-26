@@ -1,0 +1,7 @@
+{
+  "name": "google-admin-api",
+  "dependencies": {
+    "@google-analytics/admin": "^4.0.0",
+    "@google-cloud/storage": "^6.0.1"
+  }
+}
